@@ -1,5 +1,10 @@
 # Shop Angular Cloudfront
 
+## Task-2
+
+- [bucket link](http://mtct-shop-angular-cloudfront.s3-website-us-east-1.amazonaws.com/)
+- [cloudfront link](d38kp9bnq4apx6.cloudfront.net)
+
 Angular version: ~12.
 
 Repo maintainers:
